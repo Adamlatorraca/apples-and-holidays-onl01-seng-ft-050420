@@ -14,6 +14,9 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
       holiday.each do |day, supply|
         day << supply
 end
+end
+end
+end
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
